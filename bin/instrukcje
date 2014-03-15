@@ -1,0 +1,18 @@
+
+Napisz program tworzˆcy list«, kt—rej elementami sˆ karty do gry.
+Wartosc = {1, 2, ... , 13} Kolor = {0, 1, 2, 3} (Kier Karo Trefl Pik)
+
+Dane do listy naleıy wylosowa. Losujemy wartoæci p—l: Wartosc [0,13] oraz Kolor [0,3]. 
+Wylosowanie wartoæci zero dla pola Wartosc oznacza koniec tworzenia listy.
+Utworzonˆ kart« naleıy wstawi do listy na odpowiednie miejsce, tak aby karty 
+by¸y uporzˆdkowane wed¸ug wartoæci, a nast«pnie wed¸ug kolor—w.
+Do implementacji listy wykorzystaj klas« ArrayList. 
+Do przeglˆdania i odczytywania danych z listy wykorzystaj p«tle (for, while, foreach)
+oraz iterator. 
+ 
+ W programie zdefiniuj Menu, kt—rego opcje wykonujˆ nast«pujˆce operacje:
+1. Utworzenie listy
+2. Wyæwietlanie listy
+3. Wyæwietlanie liczby element—w listy
+4. Wyæwietlanie kart o podanej wartoæci
+5. Wyæwietlanie kart o podanym kolorze
