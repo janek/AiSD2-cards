@@ -1,18 +1,18 @@
 
-Napisz program tworzˆcy list«, kt—rej elementami sˆ karty do gry.
-Wartosc = {1, 2, ... , 13} Kolor = {0, 1, 2, 3} (Kier Karo Trefl Pik)
+Napisz program tworzÄ…cy listÄ™, ktÃ³rej elementami sÄ… karty do gry.
+Wartosc = {1, 2, ... , 13} Kolor = {0, 1, 2, 3} (Kier Karo Trefl Pik)ï¸â™¦â™¥ï¸â™ ï¸â™£ï¸
 
-Dane do listy naleıy wylosowa. Losujemy wartoæci p—l: Wartosc [0,13] oraz Kolor [0,3]. 
-Wylosowanie wartoæci zero dla pola Wartosc oznacza koniec tworzenia listy.
-Utworzonˆ kart« naleıy wstawi do listy na odpowiednie miejsce, tak aby karty 
-by¸y uporzˆdkowane wed¸ug wartoæci, a nast«pnie wed¸ug kolor—w.
-Do implementacji listy wykorzystaj klas« ArrayList. 
-Do przeglˆdania i odczytywania danych z listy wykorzystaj p«tle (for, while, foreach)
+Dane do listy naleÅ¼y wylosowaÄ‡. Losujemy wartoÅ›ci pÃ³l: Wartosc [0,13] oraz Kolor [0,3]. ****OK
+Wylosowanie wartoÅ›ci zero dla pola Wartosc oznacza koniec tworzenia listy.
+UtworzonÄ… kartÄ™ naleÅ¼y wstawiÄ‡ do listy na odpowiednie miejsce, tak aby karty 
+byÅ‚y uporzÄ…dkowane wedÅ‚ug wartoÅ›ci, a nastÄ™pnie wedÅ‚ug kolorÃ³w.
+Do implementacji listy wykorzystaj klasÄ™ ArrayList. 
+Do przeglÄ…dania i odczytywania danych z listy wykorzystaj pÄ™tle (for, while, foreach)
 oraz iterator. 
  
- W programie zdefiniuj Menu, kt—rego opcje wykonujˆ nast«pujˆce operacje:
+ W programie zdefiniuj Menu, ktÃ³rego opcje wykonujÄ… nastÄ™pujÄ…ce operacje:
 1. Utworzenie listy
-2. Wyæwietlanie listy
-3. Wyæwietlanie liczby element—w listy
-4. Wyæwietlanie kart o podanej wartoæci
-5. Wyæwietlanie kart o podanym kolorze
+2. WyÅ›wietlanie listy
+3. WyÅ›wietlanie liczby elementÃ³w listy
+4. WyÅ›wietlanie kart o podanej wartoÅ›ci
+5. WyÅ›wietlanie kart o podanym kolorze
