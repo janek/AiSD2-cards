@@ -3,9 +3,12 @@ Napisz program tworzący listę, której elementami są karty do gry.
 Wartosc = {1, 2, ... , 13} Kolor = {0, 1, 2, 3} (Kier Karo Trefl Pik)︎♦♥︎♠︎♣︎
 
 Dane do listy należy wylosować. Losujemy wartości pól: Wartosc [0,13] oraz Kolor [0,3]. ****OK
-Wylosowanie wartości zero dla pola Wartosc oznacza koniec tworzenia listy.
+
 Utworzoną kartę należy wstawić do listy na odpowiednie miejsce, tak aby karty 
 były uporządkowane według wartości, a następnie według kolorów.
+
+Wylosowanie wartości zero dla pola Wartosc oznacza koniec tworzenia listy.
+
 Do implementacji listy wykorzystaj klasę ArrayList. 
 Do przeglądania i odczytywania danych z listy wykorzystaj pętle (for, while, foreach)
 oraz iterator. 
